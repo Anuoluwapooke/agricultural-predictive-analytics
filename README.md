@@ -48,4 +48,20 @@ agricultural-predictive-analytics/
 ├── README.md
 └── LICENSE
 
+---
+
+## References and Tools
+
+**References:**
+- FAO – Historical crop yield & rainfall data [FAO Website](http://www.fao.org)  
+- National Meteorological Sources – Seasonal rainfall data    
+
+**Tools & Libraries:**
+- Python 3, Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn (Linear Regression)  
+- Google Colab  
+
+**Notes:**  
+All data preprocessed and anonymized for educational and predictive analytics purposes.
 
