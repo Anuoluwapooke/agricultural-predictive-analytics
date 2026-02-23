@@ -28,7 +28,8 @@ Key highlights:
 ---
 
 ## Model Performance
-IMAGE 2026-02-23 03:03:35.jpg
+
+![IMAGE 2026-02-23 05:21:05](https://github.com/user-attachments/assets/ed9f539c-2033-4f0a-ba1a-59cc158a4b28)
 
 
 
