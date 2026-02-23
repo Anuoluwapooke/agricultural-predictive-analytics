@@ -1,4 +1,4 @@
-## agricultural-predictive-analytics
+## Agricultural-predictive-analytics
 
 ## Project Overview
 
