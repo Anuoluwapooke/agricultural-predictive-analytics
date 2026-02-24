@@ -40,7 +40,11 @@ agricultural-predictive-analytics/
 ├── notebooks/
 │   ├── Predictive_Analysis_of_Rainfall_impact_on_Crop Yield.ipynb
 │   └── Agricultural_Predictive_Analytics_Project_and_modeling .ipynb
-│
+│ 
+├── datasets/
+│   └── Rainfall_yield_data.csv
+│   └── Rainfall vs yield_data.csv
+│ 
 ├── Prediction images/
 │   ├── Prediction-5.png
 │   └── Prediction-6.png
