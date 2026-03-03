@@ -68,7 +68,9 @@ agricultural-predictive-analytics/
 - Python 3, Pandas, NumPy  
 - Matplotlib, Seaborn  
 - Scikit-learn (Linear Regression)  
-- Google Colab  
+- Google Colab
+- EXcel
+- Sql
 
 **Notes:**  
 All data preprocessed and anonymized for educational and predictive analytics purposes.
