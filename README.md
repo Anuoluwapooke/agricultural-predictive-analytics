@@ -48,7 +48,11 @@ agricultural-predictive-analytics/
 ├── Prediction images/
 │   ├── Prediction-5.png
 │   └── Prediction-6.png
+│── datasets/
 │   ├── agricultural_analysis.xlsx
+│    ├── project_sql_queries.sql
+│    ├── average_yield_per_year.png
+│
 ├── README.md
 └── LICENSE
 
